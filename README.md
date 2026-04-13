@@ -1,16 +1,57 @@
-## Hi there 👋
+#  Hi, I'm Nitin Kumar
+ **Aspiring Data Analyst | Turning Data into Insights**
 
-<!--
-**nitinkumarr7/nitinkumarr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  About Me
+-  Passionate about analyzing data and solving real-world problems  
+-  Skilled in transforming raw data into meaningful insights  
+-  Continuously learning Data Analytics & Visualization tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Skills & Tools
+
+ **Languages & Libraries**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+ **Data Analysis**
+- Excel (Advanced)
+- Data Cleaning & Data Visualization
+- Exploratory Data Analysis (EDA)
+
+ **Databases**
+- SQL (MS SQL)
+
+ **Visualization Tools**
+- Power BI
+
+---
+
+##  Projects
+
+🔹 **Sales Data Analysis**
+- Analyzed sales trends and identified growth opportunities  
+- Tools: Excel  
+
+🔹 **Customer Segmentation**
+- Used Python to group customers based on behavior  
+- Tools: Python, Pandas  
+
+🔹 **Interactive Dashboard**
+- Built Power BI dashboard for business insights  
+- Tools: Power BI  
+
+---
+
+##  Connect With Me
+
+-  Email: nitinkumarr7869@gmail.com  
+-  LinkedIn: www.linkedin.com/in/nitin-kumar78 
+
+---
+
+##  Fun Fact
+I love turning messy data into meaningful stories ✨
+
+
