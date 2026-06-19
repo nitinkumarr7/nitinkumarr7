@@ -28,21 +28,7 @@
 
 ---
 
-##  Projects
 
-🔹 **Sales Data Analysis**
-- Analyzed sales trends and identified growth opportunities  
-- Tools: Excel  
-
-🔹 **Customer Segmentation**
-- Used Python to group customers based on behavior  
-- Tools: Python, Pandas  
-
-🔹 **Interactive Dashboard**
-- Built Power BI dashboard for business insights  
-- Tools: Power BI  
-
----
 
 ##  Connect With Me
 
