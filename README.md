@@ -26,6 +26,8 @@
  **Visualization Tools**
 - Power BI
 
+**Generative AI**
+
 ---
 
 
